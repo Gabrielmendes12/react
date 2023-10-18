@@ -1,5 +1,5 @@
 import LinkSegundo from "../components/LinkSegundo";
-import LinkGenerico from "../components/LinkGenerico";
+import LinkGenerico from "../components/LinkGenerico/LinkGenerico";
 
 const Primeiro = () => {
 
